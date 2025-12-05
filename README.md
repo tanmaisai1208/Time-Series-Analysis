@@ -22,9 +22,6 @@ Your only required input is your dataset:
 data = your_data
 
 
----
- 
-```markdown
 # 1️⃣ What is a Time Series?  
 
 A **time series** is a sequence of observations recorded over time (e.g., stock prices, temperature, heart rate).
@@ -136,10 +133,7 @@ pip install seaborn
 pip install matplotlib
 pip install scikit-learn
 pip install keras
-  
 
---- 
-```markdown
 # 🧠 Main Code Structure  
  
 ```python
